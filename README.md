@@ -1,7 +1,4 @@
-<!--  Edit THIS file, not README.md. README.md is auto-generated. -->
-<!-- Write your own intro / tech stack / links freely. The auto-updated -->
-<!-- sections live between the <!--MARKER--> ... <!--END_MARKER--> pairs. -->
-<!-- Delete any section you don't want; the script skips absent markers. -->
+
 
 <h1 align="center">Hi , I'm Sudhakar</h1>
 <h3 align="center">Student & Developer | Turning Ideas into Projects</h3>
@@ -44,7 +41,7 @@
 | --- | --- |
 | ⭐ Total stars | **0** |
 | 📦 Public repos | **8** |
-| 🧑‍💻 Commits (this year) | **13** |
+| 🧑‍💻 Commits (this year) | **14** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -56,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **1 day** | **3 days** | **22** |
+| **1 day** | **3 days** | **23** |
 
 <!--END_STREAK-->
 
@@ -86,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-21 08:42 UTC
+⚙️ Last auto-updated: 2026-07-21 08:51 UTC
 <!--END_TIMESTAMP--></sub></div>
