@@ -1,0 +1,90 @@
+<!--  Edit THIS file, not README.md. README.md is auto-generated. -->
+<!-- Write your own intro / tech stack / links freely. The auto-updated -->
+<!-- sections live between the <!--MARKER--> ... <!--END_MARKER--> pairs. -->
+<!-- Delete any section you don't want; the script skips absent markers. -->
+
+<h1 align="center">Hi , I'm Sudhakar</h1>
+<h3 align="center">Student & Developer | Turning Ideas into Projects</h3>
+
+---
+
+### About Me
+
+- 🎓 Student, currently learning and building hands-on projects
+- 🚀 Focused on strengthening my skills through real-world projects
+- 💻 Exploring web development, programming fundamentals, and problem solving
+- 🌱 Always open to learning new tools, frameworks, and technologies
+- 🤝 Looking to collaborate on interesting student/open-source projects
+
+---
+
+### Recently Active Repositories
+<sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
+
+<!--RECENT_REPOS-->
+- [**sudhakarshanmugasundar-web**](https://github.com/sudhakarshanmugasundar-web/sudhakarshanmugasundar-web)  
+  —
+- [**mock-interview-frontend**](https://github.com/sudhakarshanmugasundar-web/mock-interview-frontend) · `TypeScript`  
+  —
+- [**mock-interview-backend**](https://github.com/sudhakarshanmugasundar-web/mock-interview-backend) · `Java`  
+  —
+- [**Mock-Interview-Agent**](https://github.com/sudhakarshanmugasundar-web/Mock-Interview-Agent) · `TypeScript`  
+  —
+- [**AI-Personalized-Learning-**](https://github.com/sudhakarshanmugasundar-web/AI-Personalized-Learning-) · `HTML`  
+  —
+<!--END_RECENT_REPOS-->
+
+---
+
+### Live GitHub Stats
+
+<!--STATS-->
+
+| Metric | Value |
+| --- | --- |
+| ⭐ Total stars | **0** |
+| 📦 Public repos | **8** |
+| 🧑‍💻 Commits (this year) | **13** |
+| 🔀 Pull requests (this year) | **0** |
+| 👥 Followers | **0** |
+
+<!--END_STATS-->
+
+### Contribution Streak
+
+<!--STREAK-->
+
+| 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
+| :---: | :---: | :---: |
+| **1 day** | **3 days** | **22** |
+
+<!--END_STREAK-->
+
+---
+
+### Most Used Languages
+
+<!--TOP_LANGS-->
+`Java      ` `█████████░░░░░░░░░░░`  47.2%  
+`TypeScript` `█████████░░░░░░░░░░░`  45.4%  
+`HTML      ` `█░░░░░░░░░░░░░░░░░░░`   4.8%  
+`JavaScript` `░░░░░░░░░░░░░░░░░░░░`   2.2%  
+`CSS       ` `░░░░░░░░░░░░░░░░░░░░`   0.3%  
+`Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.2%
+<!--END_TOP_LANGS-->
+
+---
+
+### Connect with me
+
+<p>
+  <a href="mailto:sudhakarshanmugasundar@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/sudhakar-shanmugasundaram-96bb783a3/">LinkedIn</a> ·
+  <a href="https://github.com/sudhakarshanmugasundar-web">GitHub</a>
+</p>
+
+---
+
+<div align="center"><sub><!--TIMESTAMP-->
+⚙️ Last auto-updated: 2026-07-21 08:42 UTC
+<!--END_TIMESTAMP--></sub></div>
