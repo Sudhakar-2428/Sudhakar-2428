@@ -77,7 +77,7 @@
 <p>
   <a href="mailto:sudhakarshanmugasundar@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/sudhakar-shanmugasundaram-96bb783a3/">LinkedIn</a> ·
-  <a href="https://github.com/sudhakarshanmugasundar-web">GitHub</a>
+  <a href="https://github.com/Sudhakar-2428">GitHub</a>
 </p>
 
 ---
