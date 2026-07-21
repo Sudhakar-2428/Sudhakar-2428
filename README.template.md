@@ -1,7 +1,4 @@
-<!--  Edit THIS file, not README.md. README.md is auto-generated. -->
-<!-- Write your own intro / tech stack / links freely. The auto-updated -->
-<!-- sections live between the <!--MARKER--> ... <!--END_MARKER--> pairs. -->
-<!-- Delete any section you don't want; the script skips absent markers. -->
+
 
 <h1 align="center">Hi , I'm Sudhakar</h1>
 <h3 align="center">Student & Developer | Turning Ideas into Projects</h3>
