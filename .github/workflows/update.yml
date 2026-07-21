@@ -1,0 +1,26 @@
+name: Update README
+
+# Action flavor: one-liner that calls the published Profile README Updater.
+# Copy this to .github/workflows/update.yml in your profile repo, alongside
+# your README.template.md and config.yml.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: YuvanSankar777/readme-updater@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
