@@ -19,15 +19,15 @@
 <sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**sudhakarshanmugasundar-web**](https://github.com/sudhakarshanmugasundar-web/sudhakarshanmugasundar-web)  
+- [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
   —
-- [**mock-interview-frontend**](https://github.com/sudhakarshanmugasundar-web/mock-interview-frontend) · `TypeScript`  
+- [**mock-interview-frontend**](https://github.com/Sudhakar-2428/mock-interview-frontend) · `TypeScript`  
   —
-- [**mock-interview-backend**](https://github.com/sudhakarshanmugasundar-web/mock-interview-backend) · `Java`  
+- [**mock-interview-backend**](https://github.com/Sudhakar-2428/mock-interview-backend) · `Java`  
   —
-- [**Mock-Interview-Agent**](https://github.com/sudhakarshanmugasundar-web/Mock-Interview-Agent) · `TypeScript`  
+- [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`  
   —
-- [**AI-Personalized-Learning-**](https://github.com/sudhakarshanmugasundar-web/AI-Personalized-Learning-) · `HTML`  
+- [**AI-Personalized-Learning-**](https://github.com/Sudhakar-2428/AI-Personalized-Learning-) · `HTML`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -41,7 +41,7 @@
 | --- | --- |
 | ⭐ Total stars | **0** |
 | 📦 Public repos | **8** |
-| 🧑‍💻 Commits (this year) | **14** |
+| 🧑‍💻 Commits (this year) | **15** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -53,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **1 day** | **3 days** | **23** |
+| **1 day** | **3 days** | **24** |
 
 <!--END_STREAK-->
 
@@ -77,11 +77,11 @@
 <p>
   <a href="mailto:sudhakarshanmugasundar@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/sudhakar-shanmugasundaram-96bb783a3/">LinkedIn</a> ·
-  <a href="https://github.com/Sudhakar-2428">GitHub</a>
+  <a href="https://github.com/sudhakarshanmugasundar-web">GitHub</a>
 </p>
 
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-21 08:51 UTC
+⚙️ Last auto-updated: 2026-07-21 14:07 UTC
 <!--END_TIMESTAMP--></sub></div>
