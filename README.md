@@ -19,6 +19,8 @@
 <sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `HTML`  
+  Smart Poultry Management System built using Spring Boot, MySQL, Vite, GPS, Weather API, JWT Authentication and Role-Based Access Control.
 - [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
   —
 - [**mock-interview-frontend**](https://github.com/Sudhakar-2428/mock-interview-frontend) · `TypeScript`  
@@ -26,8 +28,6 @@
 - [**mock-interview-backend**](https://github.com/Sudhakar-2428/mock-interview-backend) · `Java`  
   —
 - [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`  
-  —
-- [**AI-Personalized-Learning-**](https://github.com/Sudhakar-2428/AI-Personalized-Learning-) · `HTML`  
   —
 <!--END_RECENT_REPOS-->
 
@@ -40,8 +40,8 @@
 | Metric | Value |
 | --- | --- |
 | ⭐ Total stars | **0** |
-| 📦 Public repos | **8** |
-| 🧑‍💻 Commits (this year) | **15** |
+| 📦 Public repos | **9** |
+| 🧑‍💻 Commits (this year) | **17** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -53,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **1 day** | **3 days** | **24** |
+| **2 days** | **3 days** | **27** |
 
 <!--END_STREAK-->
 
@@ -62,12 +62,12 @@
 ### Most Used Languages
 
 <!--TOP_LANGS-->
-`Java      ` `█████████░░░░░░░░░░░`  47.2%  
-`TypeScript` `█████████░░░░░░░░░░░`  45.4%  
-`HTML      ` `█░░░░░░░░░░░░░░░░░░░`   4.8%  
-`JavaScript` `░░░░░░░░░░░░░░░░░░░░`   2.2%  
-`CSS       ` `░░░░░░░░░░░░░░░░░░░░`   0.3%  
-`Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.2%
+`Java      ` `█████████░░░░░░░░░░░`  44.3%  
+`HTML      ` `█████░░░░░░░░░░░░░░░`  24.2%  
+`TypeScript` `████░░░░░░░░░░░░░░░░`  22.0%  
+`JavaScript` `█░░░░░░░░░░░░░░░░░░░`   5.9%  
+`CSS       ` `█░░░░░░░░░░░░░░░░░░░`   3.5%  
+`Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.1%
 <!--END_TOP_LANGS-->
 
 ---
@@ -83,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-22 14:10 UTC
+⚙️ Last auto-updated: 2026-07-22 19:35 UTC
 <!--END_TIMESTAMP--></sub></div>
