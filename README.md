@@ -16,20 +16,27 @@
 ---
 
 ### Recently Active Repositories
-<sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
+### Recently Active Repositories
+
+<sub>Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
-  —
-- [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `HTML`  
-  Smart Poultry Management System built using Spring Boot, MySQL, Vite, GPS, Weather API, JWT Authentication and Role-Based Access Control.
-- [**mock-interview-frontend**](https://github.com/Sudhakar-2428/mock-interview-frontend) · `TypeScript`  
-  —
-- [**mock-interview-backend**](https://github.com/Sudhakar-2428/mock-interview-backend) · `Java`  
-  —
-- [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`  
-  —
+
+* [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)
+  Professional GitHub profile showcasing my projects, technical skills,development journey, contribution statistics, and automatically updatedrepository information,
+  providing recruiters with a centralized overview of my work and continuous learning.
+
+* [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `HTML`
+  Smart Poultry Management System that enables farm owners and workers to efficiently manage daily poultry operations, including chicken registration, flock management, egg production, health records, worker assignments, inventory tracking, and farm performance through a centralized management platform.
+
+* [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`
+  AI-powered mock interview platform that creates personalized interview sessions based on a candidate's resume, conducts HR, technical, and coding interviews, evaluates responses, provides performance analysis, and offers detailed feedback to improve interview skills.
+
+* [**AI-Personalized-Learning**](https://github.com/Sudhakar-2428/AI-Personalized-Learning) · `TypeScript`
+  AI-powered personalized learning platform that adapts to each learner's progress, identifies strengths and weaknesses, recommends customized learning paths, generates practice questions, tracks performance, and provides continuous feedback to support effective skill development.
+
 <!--END_RECENT_REPOS-->
+
 
 ---
 
