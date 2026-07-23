@@ -16,27 +16,20 @@
 ---
 
 ### Recently Active Repositories
-### Recently Active Repositories
-
-<sub>Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
+<sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-
-* [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)
-  Professional GitHub profile showcasing my projects, technical skills,development journey, contribution statistics, and automatically updatedrepository information,
-  providing recruiters with a centralized overview of my work and continuous learning.
-
-* [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `HTML`
-  Smart Poultry Management System that enables farm owners and workers to efficiently manage daily poultry operations, including chicken registration, flock management, egg production, health records, worker assignments, inventory tracking, and farm performance through a centralized management platform.
-
-* [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`
-  AI-powered mock interview platform that creates personalized interview sessions based on a candidate's resume, conducts HR, technical, and coding interviews, evaluates responses, provides performance analysis, and offers detailed feedback to improve interview skills.
-
-* [**AI-Personalized-Learning**](https://github.com/Sudhakar-2428/AI-Personalized-Learning) · `TypeScript`
-  AI-powered personalized learning platform that adapts to each learner's progress, identifies strengths and weaknesses, recommends customized learning paths, generates practice questions, tracks performance, and provides continuous feedback to support effective skill development.
-
+- [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
+  —
+- [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`  
+  An AI-powered full-stack mock interview platform that analyzes resumes, conducts personalized HR and technical interviews, detects candidate emotions in real time, and provides intelligent performance feedback to enhance interview readiness.
+- [**AI-Personalized-Learning-**](https://github.com/Sudhakar-2428/AI-Personalized-Learning-) · `HTML`  
+  AI Personalized Learning Platform is an AI-powered adaptive learning system that delivers personalized education through intelligent quizzes, interactive coding challenges, voice-based communication practice, and an AI Tutor powered by OpenAI.
+- [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `HTML`  
+  Smart Poultry Management System built using Spring Boot, MySQL, Vite, GPS, Weather API, JWT Authentication and Role-Based Access Control.
+- [**Fantacy-APP**](https://github.com/Sudhakar-2428/Fantacy-APP)  
+  —
 <!--END_RECENT_REPOS-->
-
 
 ---
 
@@ -47,8 +40,8 @@
 | Metric | Value |
 | --- | --- |
 | ⭐ Total stars | **0** |
-| 📦 Public repos | **9** |
-| 🧑‍💻 Commits (this year) | **17** |
+| 📦 Public repos | **7** |
+| 🧑‍💻 Commits (this year) | **20** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -60,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **2 days** | **3 days** | **27** |
+| **3 days** | **3 days** | **28** |
 
 <!--END_STREAK-->
 
@@ -69,11 +62,11 @@
 ### Most Used Languages
 
 <!--TOP_LANGS-->
-`Java      ` `█████████░░░░░░░░░░░`  44.3%  
-`HTML      ` `█████░░░░░░░░░░░░░░░`  24.2%  
-`TypeScript` `████░░░░░░░░░░░░░░░░`  22.0%  
-`JavaScript` `█░░░░░░░░░░░░░░░░░░░`   5.9%  
-`CSS       ` `█░░░░░░░░░░░░░░░░░░░`   3.5%  
+`Java      ` `█████████░░░░░░░░░░░`  43.2%  
+`HTML      ` `██████░░░░░░░░░░░░░░`  30.8%  
+`TypeScript` `███░░░░░░░░░░░░░░░░░`  14.0%  
+`JavaScript` `█░░░░░░░░░░░░░░░░░░░`   7.5%  
+`CSS       ` `█░░░░░░░░░░░░░░░░░░░`   4.4%  
 `Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.1%
 <!--END_TOP_LANGS-->
 
@@ -90,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-23 03:28 UTC
+⚙️ Last auto-updated: 2026-07-23 08:39 UTC
 <!--END_TIMESTAMP--></sub></div>
