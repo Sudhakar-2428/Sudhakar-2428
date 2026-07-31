@@ -41,7 +41,7 @@
 | --- | --- |
 | ⭐ Total stars | **0** |
 | 📦 Public repos | **7** |
-| 🧑‍💻 Commits (this year) | **20** |
+| 🧑‍💻 Commits (this year) | **21** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
 
@@ -53,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **5 days** | **28** |
+| **1 day** | **3 days** | **29** |
 
 <!--END_STREAK-->
 
@@ -62,11 +62,11 @@
 ### Most Used Languages
 
 <!--TOP_LANGS-->
-`Java      ` `█████████░░░░░░░░░░░`  44.0%  
-`HTML      ` `██████░░░░░░░░░░░░░░`  29.7%  
-`TypeScript` `██░░░░░░░░░░░░░░░░░░`  12.2%  
-`JavaScript` `██░░░░░░░░░░░░░░░░░░`   9.6%  
-`CSS       ` `█░░░░░░░░░░░░░░░░░░░`   4.4%  
+`Java      ` `█████████░░░░░░░░░░░`  43.9%  
+`HTML      ` `██████░░░░░░░░░░░░░░`  29.6%  
+`TypeScript` `██░░░░░░░░░░░░░░░░░░`  12.1%  
+`JavaScript` `██░░░░░░░░░░░░░░░░░░`   9.8%  
+`CSS       ` `█░░░░░░░░░░░░░░░░░░░`   4.5%  
 `Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.1%
 <!--END_TOP_LANGS-->
 
@@ -83,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-07-31 14:22 UTC
+⚙️ Last auto-updated: 2026-07-31 19:43 UTC
 <!--END_TIMESTAMP--></sub></div>
