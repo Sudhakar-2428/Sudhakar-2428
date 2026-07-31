@@ -53,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **3 days** | **28** |
+| **0 days** | **5 days** | **28** |
 
 <!--END_STREAK-->
 
