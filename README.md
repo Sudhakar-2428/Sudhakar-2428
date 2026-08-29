@@ -19,6 +19,8 @@
 <sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
+- [**Sudhakar-Portfolio**](https://github.com/Sudhakar-2428/Sudhakar-Portfolio) · `TypeScript`  
+  —
 - [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
   —
 - [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `Java`  
@@ -27,8 +29,6 @@
   An AI-powered full-stack mock interview platform that analyzes resumes, conducts personalized HR and technical interviews, detects candidate emotions in real time, and provides intelligent performance feedback to enhance interview readiness.
 - [**AI-Personalized-Learning-**](https://github.com/Sudhakar-2428/AI-Personalized-Learning-) · `HTML`  
   AI Personalized Learning Platform is an AI-powered adaptive learning system that delivers personalized education through intelligent quizzes, interactive coding challenges, voice-based communication practice, and an AI Tutor powered by OpenAI.
-- [**Fantacy-APP**](https://github.com/Sudhakar-2428/Fantacy-APP)  
-  —
 <!--END_RECENT_REPOS-->
 
 ---
@@ -40,7 +40,7 @@
 | Metric | Value |
 | --- | --- |
 | ⭐ Total stars | **0** |
-| 📦 Public repos | **7** |
+| 📦 Public repos | **8** |
 | 🧑‍💻 Commits (this year) | **21** |
 | 🔀 Pull requests (this year) | **0** |
 | 👥 Followers | **0** |
@@ -53,7 +53,7 @@
 
 | 🔥 Current streak | 🏆 Longest streak | 📈 Contributions (past year) |
 | :---: | :---: | :---: |
-| **0 days** | **3 days** | **29** |
+| **1 day** | **3 days** | **30** |
 
 <!--END_STREAK-->
 
@@ -62,10 +62,10 @@
 ### Most Used Languages
 
 <!--TOP_LANGS-->
-`Java      ` `██████████░░░░░░░░░░`  48.6%  
-`HTML      ` `██████░░░░░░░░░░░░░░`  28.7%  
-`JavaScript` `██░░░░░░░░░░░░░░░░░░`  11.0%  
-`TypeScript` `██░░░░░░░░░░░░░░░░░░`   8.0%  
+`Java      ` `█████████░░░░░░░░░░░`  47.4%  
+`HTML      ` `██████░░░░░░░░░░░░░░`  28.0%  
+`JavaScript` `██░░░░░░░░░░░░░░░░░░`  10.7%  
+`TypeScript` `██░░░░░░░░░░░░░░░░░░`  10.1%  
 `CSS       ` `█░░░░░░░░░░░░░░░░░░░`   3.6%  
 `Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.1%
 <!--END_TOP_LANGS-->
@@ -83,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-08-29 06:41 UTC
+⚙️ Last auto-updated: 2026-08-29 16:34 UTC
 <!--END_TIMESTAMP--></sub></div>
