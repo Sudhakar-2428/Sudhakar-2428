@@ -19,9 +19,9 @@
 <sub> Auto-updated on a schedule by a GitHub Action — no manual edits.</sub>
 
 <!--RECENT_REPOS-->
-- [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
-  —
 - [**Sudhakar-Portfolio**](https://github.com/Sudhakar-2428/Sudhakar-Portfolio) · `TypeScript`  
+  —
+- [**Sudhakar-2428**](https://github.com/Sudhakar-2428/Sudhakar-2428)  
   —
 - [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `Java` · ⭐ 1  
   Smart Poultry Management System built using Spring Boot, MySQL, Vite, GPS, Weather API, JWT Authentication and Role-Based Access Control.
@@ -65,7 +65,7 @@
 `Java      ` `█████████░░░░░░░░░░░`  47.1%  
 `HTML      ` `██████░░░░░░░░░░░░░░`  27.8%  
 `TypeScript` `██░░░░░░░░░░░░░░░░░░`  10.8%  
-`JavaScript` `██░░░░░░░░░░░░░░░░░░`  10.7%  
+`JavaScript` `██░░░░░░░░░░░░░░░░░░`  10.6%  
 `CSS       ` `█░░░░░░░░░░░░░░░░░░░`   3.6%  
 `Shell     ` `░░░░░░░░░░░░░░░░░░░░`   0.1%
 <!--END_TOP_LANGS-->
@@ -83,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-09-03 16:13 UTC
+⚙️ Last auto-updated: 2026-09-03 20:51 UTC
 <!--END_TIMESTAMP--></sub></div>
