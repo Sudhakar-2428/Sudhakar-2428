@@ -23,7 +23,7 @@
   —
 - [**Sudhakar-Portfolio**](https://github.com/Sudhakar-2428/Sudhakar-Portfolio) · `TypeScript`  
   —
-- [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `Java`  
+- [**smart-poultry-system**](https://github.com/Sudhakar-2428/smart-poultry-system) · `Java` · ⭐ 1  
   Smart Poultry Management System built using Spring Boot, MySQL, Vite, GPS, Weather API, JWT Authentication and Role-Based Access Control.
 - [**Mock-Interview-Agent**](https://github.com/Sudhakar-2428/Mock-Interview-Agent) · `TypeScript`  
   An AI-powered full-stack mock interview platform that analyzes resumes, conducts personalized HR and technical interviews, detects candidate emotions in real time, and provides intelligent performance feedback to enhance interview readiness.
@@ -39,11 +39,11 @@
 
 | Metric | Value |
 | --- | --- |
-| ⭐ Total stars | **0** |
+| ⭐ Total stars | **1** |
 | 📦 Public repos | **8** |
 | 🧑‍💻 Commits (this year) | **21** |
 | 🔀 Pull requests (this year) | **0** |
-| 👥 Followers | **0** |
+| 👥 Followers | **1** |
 
 <!--END_STATS-->
 
@@ -83,5 +83,5 @@
 ---
 
 <div align="center"><sub><!--TIMESTAMP-->
-⚙️ Last auto-updated: 2026-09-03 03:59 UTC
+⚙️ Last auto-updated: 2026-09-03 10:59 UTC
 <!--END_TIMESTAMP--></sub></div>
