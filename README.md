@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/sudhakar-name.gif" alt="Sudhakar Animated Name" width="700"/>
-
+<img src="./sudhakar-name.gif" alt="Sudhakar Animated Name" width="700"/>
 ### Java Backend Developer • AI Enthusiast • Full-Stack Developer
 
 <p>
